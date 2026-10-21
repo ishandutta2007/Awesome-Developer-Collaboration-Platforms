@@ -57,67 +57,67 @@ The following hosted SaaS collaboration platforms are sorted in descending order
 
 Curated self-hosted and open-source collaboration platforms for developer teams, ranked in descending order by GitHub stargazers count ⭐:
 
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) 💬  
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) 💬  
   *Open-source team communication and omnichannel customer collaboration platform (MIT / Community Edition).*  
   Offers self-hosted deployment with unlimited users in Community Edition, bridging internal engineering channels with external customer messaging channels (WhatsApp, Instagram, SMS, and email). Features mobile/desktop apps, matrix federation bridges, and LDAP/SAML authentication.
 
-- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) 🛡️  
+- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) 🛡️  
   *Open-source platform for secure developer collaboration across the software development lifecycle (MIT / Team Edition).*  
   The de facto Slack alternative for DevOps and engineering organizations. Features Slack-compatible webhooks, 70+ native integrations (GitHub, GitLab, Jira, Jenkins), and **Incident Collaboration Playbooks** providing structured checklists, role assignments, and timeline logging during production outages.
 
-- **[Nextcloud](https://github.com/nextcloud/server)** [![GitHub Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) ☁️  
+- **[Nextcloud](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) ☁️  
   *Self-hosted productivity platform and Teams alternative (AGPL-3.0).*  
   Combines **Nextcloud Talk** (encrypted team chat, video meetings, interactive whiteboards, and webinars) with Nextcloud Files and Groupware. Keeps 100% of internal company data, documents, and communication logs on private infrastructure.
 
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) 🎥  
+- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) 🎥  
   *Fully encrypted, 100% open-source video conferencing solution (Apache-2.0).*  
   Provides instantaneous multi-party video conferencing, screen sharing, and audio calls without mandatory user accounts. Can be directly embedded into custom developer portals, Mattermost, or Zulip setups.
 
-- **[Huly Platform](https://github.com/hcengineering/platform)** [![GitHub Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers) 🎯  
+- **[Huly Platform](https://github.com/hcengineering/platform)** [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers) 🎯  
   *All-in-one open-source workspace replacing Linear, Jira, Slack, and Notion (EPL-2.0).*  
   Integrates project management, task tracking, documents, virtual offices, and channel-based team chat into a unified system with bi-directional GitHub synchronization.
 
-- **[Zulip](https://github.com/zulip/zulip)** [![GitHub Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) 🧵  
+- **[Zulip](https://github.com/zulip/zulip)** [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers) 🧵  
   *Asynchronous, topic-threaded open-source team chat (Apache-2.0).*  
   Pioneered email-style topic threading within real-time chat channels, allowing distributed engineering teams across time zones to catch up on contextual discussions asynchronously. Includes permanent topic links, broad API webhooks, and 100% searchable message history.
 
-- **[SimpleX Chat](https://github.com/simplex-chat/simplex-chat)** [![GitHub Stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=social&color=white)](https://github.com/simplex-chat/simplex-chat/stargazers) 🔐  
+- **[SimpleX Chat](https://github.com/simplex-chat/simplex-chat)** [![GitHub_Stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=social&color=white)](https://github.com/simplex-chat/simplex-chat/stargazers) 🔐  
   *Privacy-first decentralized chat protocol and client without user-facing identifiers (AGPL-3.0).*  
   Features no user IDs, phone numbers, or metadata linkages. Communicates via uni-directional message queues over TLS, making it suitable for security teams, crypto developers, and high-threat environments.
 
-- **[Element (Matrix Web Client)](https://github.com/element-hq/element-web)** [![GitHub Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) 🌐  
+- **[Element (Matrix Web Client)](https://github.com/element-hq/element-web)** [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers) 🌐  
   *Glossy collaboration client for the decentralized Matrix communication network (AGPL-3.0).*  
   Provides end-to-end encrypted group rooms, voice/video conferencing, and cross-server communication over the open Matrix standard.
 
-- **[Tinode](https://github.com/tinode/chat)** [![GitHub Stars](https://img.shields.io/github/stars/tinode/chat?style=social&color=white)](https://github.com/tinode/chat/stargazers) ⚡  
+- **[Tinode](https://github.com/tinode/chat)** [![GitHub_Stars](https://img.shields.io/github/stars/tinode/chat?style=social&color=white)](https://github.com/tinode/chat/stargazers) ⚡  
   *Instant messaging server and client written in Go and gRPC (GPL-3.0 / Apache-2.0).*  
   Lightweight messaging daemon built for high performance and low memory footprints, deployable via single binaries or containers for embedded developer messaging.
 
-- **[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub Stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) 🔄  
+- **[Matrix Synapse](https://github.com/matrix-org/synapse)** [![GitHub_Stars](https://img.shields.io/github/stars/matrix-org/synapse?style=social&color=white)](https://github.com/matrix-org/synapse/stargazers) 🔄  
   *Reference Matrix homeserver implementation written in Python and Rust (Apache-2.0).*  
   Serves as the foundation for decentralized, federated messaging backbones. Synchronizes room histories, identity signing, and cryptographic key sharing across global networks.
 
-- **[Cinny](https://github.com/cinnyapp/cinny)** [![GitHub Stars](https://img.shields.io/github/stars/cinnyapp/cinny?style=social&color=white)](https://github.com/cinnyapp/cinny/stargazers) ✨  
+- **[Cinny](https://github.com/cinnyapp/cinny)** [![GitHub_Stars](https://img.shields.io/github/stars/cinnyapp/cinny?style=social&color=white)](https://github.com/cinnyapp/cinny/stargazers) ✨  
   *Modern, lightweight web and desktop Matrix client focused on speed and simplicity (AGPL-3.0).*  
   Designed with an elegant Slack/Discord-inspired interface on top of Matrix homeservers, providing rapid load times and intuitive navigation.
 
-- **[Tailchat](https://github.com/msgbyte/tailchat)** [![GitHub Stars](https://img.shields.io/github/stars/msgbyte/tailchat?style=social&color=white)](https://github.com/msgbyte/tailchat/stargazers) 🧩  
+- **[Tailchat](https://github.com/msgbyte/tailchat)** [![GitHub_Stars](https://img.shields.io/github/stars/msgbyte/tailchat?style=social&color=white)](https://github.com/msgbyte/tailchat/stargazers) 🧩  
   *Next-generation open-source noIM / micro-kernel workspace application (Apache-2.0).*  
   Designed as an extensible alternative to Discord and Slack with plug-in architectures, mini-programs, role permissions, and WebRTC integration.
 
-- **[Stoat (formerly Revolt)](https://github.com/stoatchat/stoatchat)** [![GitHub Stars](https://img.shields.io/github/stars/stoatchat/stoatchat?style=social&color=white)](https://github.com/stoatchat/stoatchat/stargazers) 🦀  
+- **[Stoat (formerly Revolt)](https://github.com/stoatchat/stoatchat)** [![GitHub_Stars](https://img.shields.io/github/stars/stoatchat/stoatchat?style=social&color=white)](https://github.com/stoatchat/stoatchat/stargazers) 🦀  
   *Open-source Discord alternative built with Rust microservices (AGPL-3.0 / Custom).*  
   Provides high-concurrency servers, voice channels powered by LiveKit WebRTC, role-based access control, bots, and modern real-time WebSockets.
 
-- **[Chatto](https://github.com/chattocorp/chatto)** [![GitHub Stars](https://img.shields.io/github/stars/chattocorp/chatto?style=social&color=white)](https://github.com/chattocorp/chatto/stargazers) 📦  
+- **[Chatto](https://github.com/chattocorp/chatto)** [![GitHub_Stars](https://img.shields.io/github/stars/chattocorp/chatto?style=social&color=white)](https://github.com/chattocorp/chatto/stargazers) 📦  
   *Fast, single-binary team chat server and Discord/Slack alternative (AGPL-3.0).*  
   Ships with embedded NATS JetStream storage requiring zero external databases. Features cryptographic shredding for per-user GDPR privacy compliance.
 
-- **[Wire Server](https://github.com/wireapp/wire-server)** [![GitHub Stars](https://img.shields.io/github/stars/wireapp/wire-server?style=social&color=white)](https://github.com/wireapp/wire-server/stargazers) 🔒  
+- **[Wire Server](https://github.com/wireapp/wire-server)** [![GitHub_Stars](https://img.shields.io/github/stars/wireapp/wire-server?style=social&color=white)](https://github.com/wireapp/wire-server/stargazers) 🔒  
   *Enterprise-grade, end-to-end encrypted collaboration backend (AGPL-3.0).*  
   Developed for zero-trust environments and mission-critical communications with strict cryptographic auditing and compliance controls.
 
-- **[Bonfire](https://github.com/bonfire-networks/bonfire-app)** [![GitHub Stars](https://img.shields.io/github/stars/bonfire-networks/bonfire-app?style=social&color=white)](https://github.com/bonfire-networks/bonfire-app/stargazers) 🔥  
+- **[Bonfire](https://github.com/bonfire-networks/bonfire-app)** [![GitHub_Stars](https://img.shields.io/github/stars/bonfire-networks/bonfire-app?style=social&color=white)](https://github.com/bonfire-networks/bonfire-app/stargazers) 🔥  
   *Modular, federated ActivityPub collaboration and community coordination platform (AGPL-3.0).*  
   Built in Elixir for distributed coordination, modular app extension, boundary controls, and community-owned messaging.
 
